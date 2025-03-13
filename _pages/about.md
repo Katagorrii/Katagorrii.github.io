@@ -11,12 +11,13 @@ redirect_from:
 
 Education
 ======
-2018.09-2022.06  [Chengdu University of Technology](https://www.cdut.edu.cn/en/)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Earth Information Science and Technology (Bachelor of Engineering) [College of Earth and Planetary Science](https://ces.cdut.edu.cn/index.htm)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GPA: 3.50/4.00  
-2022.09-2025.06 [University of Science and Technology of China](https://www.ustc.edu.cn/)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Astronomy (Master of Science) [College of Astronomy and Space Sciences](https://www.pmo.cas.cn/gs/)([Purple Mountain Observatory,Chinese Academy of Sciences](http://www.pmo.ac.cn/))  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GPA: 3.50/5.00 (Top 5%)
+2018.09-2022.06  [Chengdu University of Technology](https://www.cdut.edu.cn/en/) (Bachelor of Engineering)  
+&nbsp;&nbsp;&nbsp;&nbsp;Geology, [College of Earth and Planetary Science](https://ces.cdut.edu.cn/index.htm)  
+&nbsp;&nbsp;&nbsp;&nbsp;GPA: 3.50/4.00  
+  
+2022.09-2025.06 [University of Science and Technology of China](https://www.ustc.edu.cn/) (Master of Science)  
+&nbsp;&nbsp;&nbsp;&nbsp;Astronomy, [College of Astronomy and Space Sciences](https://www.pmo.cas.cn/gs/) ([Purple Mountain Observatory,Chinese Academy of Sciences](http://www.pmo.ac.cn/))  
+&nbsp;&nbsp;&nbsp;&nbsp;GPA: 3.50/5.00 (Top 5%)
 
 Getting started
 ======
