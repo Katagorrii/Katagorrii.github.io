@@ -1,5 +1,5 @@
 ---
-title: "Progress and Prospect of space weathering of Near Earth Asteroids"
+title: "Progress and prospect of Jupiter Trojan asteroid"
 collection: publications
 category: conferences
 permalink: /publication/2023-08-17-Conference
