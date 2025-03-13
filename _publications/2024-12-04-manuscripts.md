@@ -6,7 +6,7 @@ permalink: /publication/2024-12-04-manuscripts
 excerpt: 'This article provides a review of the observation history, physical properties, spectral properties, material composition, formation, and evolution of Jupiter Trojan asteroids, which will support future deep space exploration missions of China'
 date: 2024-12-04
 venue: 'December 28'
-paperurl: 'http://Katagorrii.github.io/files/JPHAs-MGM-Mineral.pdf'
+paperurl: 'http://Katagorrii.github.io/files/PHAs-MGM-Mineral.pdf'
 citation: 'HUANG H T，WU Y Z，WANG L，et al. Quantitative inversion of minerals on potentially hazardous asteroids[J]. Journal of Deep Space Exploration，2024，11（6）：605-612.'
 ---
 
