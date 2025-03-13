@@ -6,7 +6,7 @@ permalink: /publication/2023-07-16-Conference
 excerpt: 'Space weathering of S-type Near Earth Asteroids'
 date: 2023-07-16
 venue: 'Summary of the second national planetary defense conference'
-paperurl: 'http://Katagorrii.github.io/files/NEAs-SpaceWeaathering-Conf.pdf'
+paperurl: 'http://Katagorrii.github.io/files/NEAs-SpaceWeathering-Conf.pdf'
 citation: 'Huang H T, Wu Y Z. Progress and Prospect of space weathering of Near Earth Asteroids[C]. Second national planetary defense conference, Yili, 2024, 7.'
 ---
 
