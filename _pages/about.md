@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-“Forensic science is a profession that exists for the future”
+“Forensic medicine is a profession that exists for the future”
 
 A data-driven personal website
 ======
