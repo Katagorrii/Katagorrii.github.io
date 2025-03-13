@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+"Do the things of the universe well first" and then
 “Forensic medicine is a profession that exists for the future”
 
 Education
