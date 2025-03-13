@@ -18,3 +18,5 @@ Education
 2022.09-2025.06 [University of Science and Technology of China](https://www.ustc.edu.cn/) (Master of Science)  
 &nbsp;&nbsp;&nbsp;&nbsp;Astronomy, [College of Astronomy and Space Sciences](https://www.pmo.cas.cn/gs/) ([Purple Mountain Observatory,Chinese Academy of Sciences](http://www.pmo.ac.cn/))  
 &nbsp;&nbsp;&nbsp;&nbsp;GPA: 3.50/5.00 (Top 5%)
+
+2025.09-2027.09 Unknown
