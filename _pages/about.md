@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-2018.09-2022.06 Earth Information Science and Technology, [College of Earth and Planetary Science](https://ces.cdut.edu.cn/index.htm), [Chengdu University of Technology](https://www.cdut.edu.cn/en/)
+2018.09-2022.06 Earth Information Science and Technology, [College of Earth and Planetary Science](https://ces.cdut.edu.cn/index.htm), [Chengdu University of Technology](https://www.cdut.edu.cn/en/)  
 2022.09-2025.06 Astronomy, [College of Astronomy and Space Sciences](https://www.pmo.cas.cn/gs/)([Purple Mountain Observatory,Chinese Academy of Sciences](http://www.pmo.ac.cn/)), [University of Science and Technology of China](https://www.ustc.edu.cn/)
 
 
