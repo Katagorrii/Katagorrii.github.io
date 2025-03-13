@@ -2,7 +2,7 @@
 title: "Identifying Emeishan basalt by supervised learning with Landsat-5 and ASTER data"
 collection: publications
 category: manuscripts
-permalink: /publication/2023-01-09
+permalink: /publication/2023-01-09-manuscripts
 excerpt: 'This study used Landsat-5 multispectral remote sensing data to investigate the distribution of basalt in the Panxi region. The results showed that the support vector machine (SVM) in ENVI5.3 had the highest recognition accuracy and precision'
 date: 2023-01-09
 venue: 'Journal 9'
