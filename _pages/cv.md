@@ -12,8 +12,12 @@ redirect_from:
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in China, [University of Science and Technology of China](https://www.ustc.edu.cn/), 2022-2025  
+&nbsp;&nbsp;&nbsp;&nbsp;Astronomy, [College of Astronomy and Space Sciences](https://www.pmo.cas.cn/gs/) ([Purple Mountain Observatory,Chinese Academy of Sciences](http://www.pmo.ac.cn/))  
+&nbsp;&nbsp;&nbsp;&nbsp;GPA: 3.50/4.00  
+* B.S. in China, [Chengdu University of Technology](https://www.cdut.edu.cn/en/), 2018-2022  
+&nbsp;&nbsp;&nbsp;&nbsp;Geology, [College of Earth and Planetary Science](https://ces.cdut.edu.cn/index.htm)  
+&nbsp;&nbsp;&nbsp;&nbsp;GPA: 3.50/5.00 (Top 5%) 
 
 Work experience
 ======
