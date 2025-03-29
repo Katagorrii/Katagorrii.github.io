@@ -1,0 +1,14 @@
+---
+title: "Quantitative Inversion of Siliceous Asteroid Minerals"
+collection: publications
+category: manuscripts
+permalink: /publication/2024-12-30-manuscripts
+excerpt: 'This article provides a review of the observation history, physical properties, spectral properties, material composition, formation, and evolution of Jupiter Trojan asteroids, which will support future deep space exploration missions of China'
+date: 2024-12-30
+venue: 'December 30'
+paperurl: 'http://Katagorrii.github.io/files/silicate-asteroids-MGM.pdf'
+citation: 'HUANG X T, HUANG H T, LEI K Y, et al. Quantitative inversion of siliceous asteroid minerals[J]. Journal of Space Science and Experiment, 2024, 1(4): 1-9.'
+---
+
+Abstract：  
+Understanding the components of asteroids plays an important role in guiding research on the origin and evolution of asteroids, utilization of space resources, and asteroid defense. Siliceous asteroids are the main type of nearEarth and inner main belt asteroids and are also the most common parent bodies of ordinary chondrite. In order to improve our understanding of the mineral composition of siliceous asteroids, the mineral compositions of eight siliceous asteroids with high spectral signal-to-noise ratios were investigated. By deconvolving the mixed spectrum of asteroids, we have obtained the absorption characteristics of ferromagnesian minerals, including their magnesium olivine index (Fo#) and the proportion of high-calcium pyroxene and then we identified the corresponding meteorite analogues for these asteroids. The results indicate that Sr-type asteroids (3) Juno, (808) Merxia and S-type asteroid (4197) Morpheus have higher Fo# and lower high-calcium pyroxene content, with surface compositions similar to H chondrites. The Sq-type asteroid (433) Eros has a relatively low Fo# and a high proportion of high-calcium pyroxene, with surface compositions resembling L chondrites. Sv-type asteroid (5) Astraea and S-type asteroid (17) Thetis have surfaces almost devoid of olivine, while V-type asteroids (3908) Nyx and (4055) Magellan lack olivine altogether, with surface mineral compositions similar to basaltic achondrites. The results show that even if they are all siliceous asteroids, their types have mineral diversity, and their correspondence with meteorite types is also complex and diverse. This is related to the origin and evolution of the asteroid itself and its later transformations such as space weathering and impact metamorphism. It also shows that the existing asteroid spectral classification system needs to be improved, and caution is needed when interpreting the mineral composition and evolution of asteroids based on spectra.
