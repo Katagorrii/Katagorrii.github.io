@@ -7,7 +7,7 @@ excerpt: 'Progress and prospect of Jupiter Trojan asteroids'
 date: 2023-08-17
 venue: 'Summary of the 19th Annual Conference on deep space exploration'
 paperurl: 'http://Katagorrii.github.io/files/Jupiter-Trojans-Conf.pdf'
-citation: 'Huang H T. Progress and prospect of Jupiter Trojan asteroid[C]. The 19th Annual Conference on deep space exploration, Huhehaote, 2024, 8.'
+citation: 'Huang H T. Progress and prospect of Jupiter Trojan asteroid[C]. The 19th Annual Conference on deep space exploration, Huhehaote, 2024, 8 (in chinese).'
 ---
 
 Abstract:  
