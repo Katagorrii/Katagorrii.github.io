@@ -7,7 +7,7 @@ excerpt: 'This study conducted mineralogical inversion for six potentially hazar
 date: 2024-12-04
 venue: 'December 28'
 paperurl: 'http://Katagorrii.github.io/files/PHAs-MGM-Mineral.pdf'
-citation: 'HUANG H T，WU Y Z，WANG L，et al. Quantitative inversion of minerals on potentially hazardous asteroids[J]. Journal of Deep Space Exploration, 2024, 11(6): 605-612. (in chinese)'
+citation: 'HUANG H T，WU Y Z，WANG L，et al. Quantitative inversion of minerals on potentially hazardous asteroids[J]. Journal of Deep Space Exploration, 2024, 11(6): 605-612 (in chinese).'
 ---
 
 Abstract：  
