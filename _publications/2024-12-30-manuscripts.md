@@ -7,7 +7,7 @@ excerpt: 'Based on the revised Gaussian model, this study conducted mineralogica
 date: 2024-12-30
 venue: 'December 30'
 paperurl: 'http://Katagorrii.github.io/files/silicate-asteroids-MGM.pdf'
-citation: 'HUANG X T, HUANG H T, LEI K Y, et al. Quantitative inversion of siliceous asteroid minerals[J]. Journal of Space Science and Experiment, 2024, 1(4): 1-9. (In chinese)'
+citation: 'HUANG X T, HUANG H T, LEI K Y, et al. Quantitative inversion of siliceous asteroid minerals[J]. Journal of Space Science and Experiment, 2024, 1(4): 1-9. (in chinese)'
 ---
 
 Abstract：  
