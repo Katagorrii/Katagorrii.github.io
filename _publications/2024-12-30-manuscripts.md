@@ -3,7 +3,7 @@ title: "Quantitative Inversion of Siliceous Asteroid Minerals"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-12-30-manuscripts
-excerpt: 'This article provides a review of the observation history, physical properties, spectral properties, material composition, formation, and evolution of Jupiter Trojan asteroids, which will support future deep space exploration missions of China'
+excerpt: 'Based on the revised Gaussian model, this study conducted mineralogical inversion for four near-Earth asteroids and four main-belt asteroids, identifying their meteorite analogs. The results demonstrate significant compositional diversity among asteroids sharing similar orbital characteristics, indicating the need for improvement in current asteroid classification schemes.'
 date: 2024-12-30
 venue: 'December 30'
 paperurl: 'http://Katagorrii.github.io/files/silicate-asteroids-MGM.pdf'
