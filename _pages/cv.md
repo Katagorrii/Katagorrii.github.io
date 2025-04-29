@@ -20,12 +20,18 @@ Education
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Language
+  * Chinese: Mandarin II B
+  * English: CET-6
+* Office skills
+  * Proficient in word, PPT, Excel and WPS office software
+  * Skillfully use SPSS and other data analysis software, and have high sensitivity to large data
+  * Proficient in clipchamp editing software (Windows system) and Final Cut Pro x editing software (MacOS system)
+* Code level
+  * Master MATLAB, IDL, c/c++programming languages
+* Professional skills
+  *  Proficient in the processing of ground remote sensing data (surface feature types, geological disasters, minerals)
+  *  Proficient in asteroid surface mineral inversion and space weathering exposure age calculation
 
 Publications
 ======
